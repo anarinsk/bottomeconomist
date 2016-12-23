@@ -14,4 +14,4 @@ A B-rated economist working at NCSOFT Korea.
 
 ### Contact me
 
-[email@domain.com](mailto:anarinsk@gmail.com)
+[Use this!](mailto:anarinsk@gmail.com)
