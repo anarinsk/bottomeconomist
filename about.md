@@ -4,9 +4,9 @@ title: About
 permalink: /about/
 ---
 
-A B-rated economist working at NCSOFT Korea. 
+A B-rated economist working at NCSOFT Korea
 
-### More Information
+### Interests 
 
 * Game theory 
 * Microeconomics 
