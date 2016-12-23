@@ -4,13 +4,13 @@ title: About
 permalink: /about/
 ---
 
-An B-rated ecnomist working at NCSOFT Korea. 
+A B-rated economist working at NCSOFT Korea. 
 
 ### More Information
 
-Game theory 
-Microeconomics 
-MMORPG economy analysis 
+* Game theory 
+* Microeconomics 
+* MMORPG (economic design of game, Real-money trading) 
 
 ### Contact me
 
