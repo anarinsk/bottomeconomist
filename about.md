@@ -10,6 +10,8 @@ A B-rated economist working at NCSOFT Korea.
 
 * Game theory 
 * Microeconomics 
+* Data analysis 
+* R / Python / Mathematica 
 * MMORPG (economic design of game, Real-money trading) 
 
 ### Contact me
